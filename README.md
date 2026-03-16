@@ -1,20 +1,13 @@
-# PVPAI LLM 🔥
+# Orbit AI LLM 🔥
 **First Finetuned DeFAI Large Language Model Powered by DeepSeek**  
 *Where AI Meets On-Chain Intelligence*
 
-[![PVPAI Logo](https://drive.google.com/uc?export=view&id=1MEESheooMt176Od1qi9gJ39dbZTLFx1A)](https://pvpai.xyz)
-[![Beta Demo](https://img.shields.io/badge/LIVE-Beta_Demo-8A2BE2)](https://drive.google.com/file/d/19P1DB968LHRpoLDCnzQmYrqy6y1oHowq/view)
-[![Telegram Bot](https://img.shields.io/badge/🤖_PVPAI_Bot-Try_Now-0088CC)](https://t.me/PvpAiBot)
-[![X Community](https://img.shields.io/badge/🐦_Follow_X-Get_Alpha-000000)](https://x.com/pvpai_agent)
-[![Community Chat](https://img.shields.io/badge/💬_TG_Community-Join_Alpha-26A5E4)](https://t.me/pvpaialpha)
-[![Website](https://img.shields.io/badge/🌐_Website-Build_With_AI-FFD700)](https://pvpai.xyz)
-
 ---
 
-## 🚀 Why PVPAI LLM?
+## 🚀 Why OrbitAI LLM?
 **DeFAI’s Missing Piece**  
 Every DeFAI (DeFi + AI) agent needs an LLM, but generic models fail to capture on-chain nuances.  
-**PVPAI LLM is the first finetuned Large Language Model optimized for DeFAI** — trained on massive on-chain data to become the *default brain* for:  
+**OrbitAI LLM is the first finetuned Large Language Model optimized for DeFAI** — trained on massive on-chain data to become the *default brain* for:  
 - Agent frameworks 🛠️  
 - Meme analytics engine 📊  
 - Alpha-generating protocols 🤖  
@@ -29,8 +22,8 @@ Every DeFAI (DeFi + AI) agent needs an LLM, but generic models fail to capture o
 - **Finetuning Data**: 200M+ on-chain interactions (DEX trades, NFT mints, memecoins)  
 - **Task Focus**: Token analytics, agent reasoning, risk modeling  
 
-### 2. **Real-World Utility: PVPAI Score & Beyond**
-**[Try Beta](https://t.me/PvpAiBot) | [Demo Video](https://drive.google.com/file/d/19P1DB968LHRpoLDCnzQmYrqy6y1oHowq/view)**  
+### 2. **Real-World Utility: OrbitAI Score & Beyond**
+**[Try Beta](https://t.me/OrbitAiBot) | [Demo Video](https://drive.google.com/file/d/19P1DB968LHRpoLDCnzQmYrqy6y1oHowq/view)**  
 
 ### 🔥 **Current Use Case**  
 Input any token CA → AI generates:  
@@ -39,7 +32,7 @@ Input any token CA → AI generates:
 - **Actionable Reports**: For degens, builders, and protocols  
 
 ### 🚀 **Future Roadmap**  
-**PVPAI LLM will power:**  
+**OrbitAI LLM will power:**  
 - 🤖 **AI-Driven DEX Aggregator**:  
   *"Uniswap meets ChatGPT"* — Swap tokens via natural language commands.  
 - 🛠️ **DeFi Agent Marketplace**:  
@@ -48,24 +41,24 @@ Input any token CA → AI generates:
   Simulate token trajectories based on whale activity + social sentiment.  
 
 ### 🌐 **Open-Source LLM Chain**  
-PVPAI LLM isn’t just a model — **it’s a decentralized protocol**.  
+OrbitAI LLM isn’t just a model — **it’s a decentralized protocol**.  
 - **For Developers**:  
   Fork, retrain, or plug into your DeFAI dApps.  
 - **For Researchers**:  
-  Contribute to the onchain data corpus and earn $PVPAI incentives.  
+  Contribute to the onchain data corpus and earn $OrbitAI incentives.  
 - **For Protocols**:  
   Become a node in the LLM Chain (AI consensus meets Proof-of-Training).  
 
 ---
 
 ## 🛠️ How It Works
-**PVPAI LLM in Action — No Code, Just Alpha**  
+**OrbitAI LLM in Action — No Code, Just Alpha**  
 
 ### For Users (Beta Live Now):  
-1. **Go to [PVPAI Score Bot](https://t.me/PvpAiBot)**  
+1. **Go to [OrbitAI Score Bot](https://t.me/OrbitAiBot)**  
 2. **Input any CA** (e.g., `SOLANA_MEME_CA` or `ETHEREUM_TOKEN_CA`)  
 3. **Get AI Insights**:  
-   - 📊 **PVPAI Score**: 0-100 rating based on 200+ metrics  
+   - 📊 **OrbitAI Score**: 0-100 rating based on 200+ metrics  
    - 📄 **AI Report**: Liquidity health, holder distribution, meme virality & more  
    - 🚨 **Risk Alerts**: Rug checks, whale activity monitoring  
 
@@ -74,14 +67,14 @@ PVPAI LLM isn’t just a model — **it’s a decentralized protocol**.
 ---
 
 ### For Developers (Coming Soon):  
-**PVPAI LLM as a Protocol**  
+**OrbitAI LLM as a Protocol**  
 *Embed DeFAI intelligence into your agent frameworks, trading tools, or launchpads.*  
 
 ```python
 # Future API Example (Q4 2024)
-from pvpai import query_de_fai
+from Orbitai import query_de_fai
 
-# Ask PVPAI LLM about any onchain activity
+# Ask OrbitAI LLM about any onchain activity
 response = query_de_fai(
     question="Top 3 memecoins with low rug risk on Solana?",
     chain="solana"
